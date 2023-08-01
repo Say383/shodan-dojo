@@ -9,7 +9,7 @@ license = "MIT"
 python = "^3.8"
 requests = "^2.23.0"
 mmh3 = "^2.5.1"
-cryptography = "^2.9.2"
+cryptography = "^41.0.3"
 sshpubkeys = "^3.1.0"
 
 [tool.poetry.dev-dependencies]
